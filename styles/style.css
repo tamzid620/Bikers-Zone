@@ -1,0 +1,16 @@
+.slider-prev-icon{
+    background-color:#ffff0075;
+}
+.slider-next-icon{
+    background-color:#ffff0075;
+}
+
+ul li{
+    list-style-type: none;
+    gap: 20px;
+}
+.footer-2{
+    padding-left: 350px!important;
+}
+
+
